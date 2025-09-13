@@ -2,6 +2,7 @@
 title: "suryashch.github.io"
 ---
 
-This is a Quarto website.
+Hey this is Suryash.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This page is a work in progress. For now, I'll redirect you to my LinkedIn page where you can find more info.
+https://www.linkedin.com/in/suryashchakravarty/
